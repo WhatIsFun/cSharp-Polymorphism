@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\bin\Debug\net6.0\cSharp-Polymorphism.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\bin\Debug\net6.0\cSharp-Polymorphism.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\bin\Debug\net6.0\cSharp-Polymorphism.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\bin\Debug\net6.0\cSharp-Polymorphism.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\bin\Debug\net6.0\cSharp-Polymorphism.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\obj\Debug\net6.0\cSharp-Polymorphism.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\obj\Debug\net6.0\cSharp-Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\obj\Debug\net6.0\cSharp-Polymorphism.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\obj\Debug\net6.0\cSharp-Polymorphism.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\obj\Debug\net6.0\cSharp-Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\obj\Debug\net6.0\cSharp-Polymorphism.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\obj\Debug\net6.0\refint\cSharp-Polymorphism.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\obj\Debug\net6.0\cSharp-Polymorphism.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\obj\Debug\net6.0\cSharp-Polymorphism.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Polymorphism\cSharp-Polymorphism\obj\Debug\net6.0\ref\cSharp-Polymorphism.dll
